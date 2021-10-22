@@ -1,0 +1,14 @@
+div .not-found {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+
+    img, h5 {
+        max-width: 75%;
+    }
+    
+    h5 {
+      text-align: center;
+    }
+  }
